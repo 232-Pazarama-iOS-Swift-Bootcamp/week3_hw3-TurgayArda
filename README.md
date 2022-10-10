@@ -1,7 +1,7 @@
 # Pazarama iOS Bootcamp - Hafta 3 - Ödev
 ## iTunes Client App
 
-## Technology and structures
+### Technology and structures
 
 - URLSession
 - RESTful API
